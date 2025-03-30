@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="manage_system_button" />
+    <string name="place_hold_button" />
+    <string name="create_account" />
+
+    <string-array name="genres">
+        <item>Computer Science</item>
+        <item>Self-Help</item>
+        <item>Historical Fantasy</item>
+    </string-array>
+
+</resources>
